@@ -32,7 +32,7 @@ class QuadraticEquationSolver
         }
         else
         {
-            root1 = root2 = double.NaN; // No real roots
+            root1 = root2 = double.NaN; 
         }
     }
 
